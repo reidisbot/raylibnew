@@ -1,4 +1,4 @@
-#include "src/raylib.h"
+#include "lib/raylib.h"
 
 int main() 
 {
